@@ -1,0 +1,1 @@
+{"name":"Offline Activity Tracker","short_name":"Tracker","description":"Offline-first personal activity timer and history tracker.","start_url":"/","display":"standalone","background_color":"#f7f4ef","theme_color":"#136f63","lang":"en","scope":"/","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
